@@ -6,7 +6,6 @@
 
 ## Currently
 
-- 📖 Learning: PyTorch → Karpathy Zero to Hero → GPU MODE → Triton kernel writing
 - 🤝 Open to: Full Stack, ML Systems, AI Infrastructure roles/internships
 
 ---
