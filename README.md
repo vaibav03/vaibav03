@@ -39,7 +39,7 @@
 
 ## Currently
 
-- 📖 Learning GPU MODE, Triton, LLM inference internals
+- 📖 Learning Triton, LLM inference internals
 - 🤝 Open to: Full Stack, ML Systems, AI Infrastructure roles/internships
 
 📬 vvaibav03@gmail.com · [LinkedIn](https://www.linkedin.com/in/vaibav-venkatapathy-992b5b238/) · [LeetCode](https://leetcode.com/vaibav) · [Codeforces](https://codeforces.com/profile/vvaibav007)
